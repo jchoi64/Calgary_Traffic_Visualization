@@ -1,0 +1,6 @@
+#ignore vscode settings
+.vscode
+
+#ignore pycache
+Python_files/__pycache__
+Python_files/database/__pycache__
