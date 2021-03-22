@@ -2,7 +2,7 @@
 See https://jchoi64.github.io/Calgary_Traffic_Visualization/ for Calgary's traffic data visualized in heat maps.<br/>
 ![Example](example.PNG)
 <br/>
-Use the layer menu located at the bottom left to turn on/off specific layers.
+Use the layer menu located at the bottom left to turn on/off specific layers.<br/>
 ![Layer Menu](layer.PNG)
 <br/>
 
